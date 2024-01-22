@@ -3,6 +3,9 @@
 ## Introduction
 This project is an exploratory data analysis of Netflix movie data using Python and pandas. The goal was to investigate whether movies are getting shorter over time and identify factors contributing to this trend. The analysis revealed that, overall, movies are not getting shorter.
 
+## Data
+The data for this project comes from datacamp, containing information about movies and TV shows. The dataset includes 11 columns and 7,787 rows. For detailed information, refer to the [netflix_data.csv](netflix_data.csv) file in the data folder.
+
 ## The data
 ### **netflix_data.csv**
 | Column | Description |
