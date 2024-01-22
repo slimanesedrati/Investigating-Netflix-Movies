@@ -48,6 +48,9 @@ jupyter notebook
 ```
 #### Open and run the notebook named notebook.ipynb for the code and analysis.
 
+## Results
+![image](https://github.com/slimanesedrati/Investigating-Netflix-Movies/assets/80587317/2002e892-e4d7-4de7-af8c-b6662dc42578)
+
 ## Acknowledgments
 This project was inspired by the DataCamp [Investigating Netflix Movies](https://app.datacamp.com/learn/projects/investigating_netflix/guided/Python) . Special thanks to DataCamp for providing valuable learning resources.
 
