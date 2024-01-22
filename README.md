@@ -42,7 +42,7 @@ You have been supplied with the dataset `netflix_data.csv` , along with the foll
 `colors = []`
 
 ### Iterate over rows of netflix_movies
-`for label, row in netflix_movies.iterrows() :
+for label, row in netflix_movies.iterrows() :
     if row["genre"] == "Children" :
         colors.append("red")
     elif row["genre"] == "Documentaries" :
@@ -50,7 +50,7 @@ You have been supplied with the dataset `netflix_data.csv` , along with the foll
     elif row["genre"] == "Stand-Up":
         colors.append("green")
     else:
-        colors.append("black")`
+        colors.append("black")
         
 ### Inspect the first 10 values in your list        
 `colors[:10]`
@@ -62,9 +62,9 @@ You have been supplied with the dataset `netflix_data.csv` , along with the foll
 `plt.scatter(netflix_movies.release_year, netflix_movies.duration, c=colors)`
 
 ### Create a title and axis labels
-`plt.title("Movie Duration by Year of Release")
-plt.xlabel("Release year")
-plt.ylabel("Duration (min)")`
+`plt.title("Movie Duration by Year of Release")`
+`plt.xlabel("Release year")`
+`plt.ylabel("Duration (min)")`
 
 ### Show the plot
 `plt.show()`
