@@ -28,7 +28,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Read in the Netflix CSV as a DataFrame
-netflix_df = pd.read_csv("netflix_data.csv")
+netflix_df = pd.read_csv("data/netflix_data.csv")
 
 # Subset the DataFrame for type "Movie"
 netflix_subset = netflix_df[netflix_df["type"] == "Movie"]
