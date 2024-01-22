@@ -72,3 +72,6 @@ plt.show()
 
 # Are we certain that movies are getting shorter?
 answer = "no"
+
+![image](https://github.com/slimanesedrati/Investigating-Netflix-Movies/assets/80587317/2a781250-578f-4ae7-b887-deb1d051fb1a)
+
