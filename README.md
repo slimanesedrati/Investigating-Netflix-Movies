@@ -1,10 +1,7 @@
-![Movie popcorn on red background](redpopcorn.jpg)
+# Netflix Movie Data Analysis
 
-**Netflix**! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
-
-Given the large number of movies and series available on the platform, it is a perfect opportunity to flex your exploratory data analysis skills and dive into the entertainment industry. Our friend has also been brushing up on their Python skills and has taken a first crack at a CSV file containing Netflix data. They believe that the average duration of movies has been declining. Using your friends initial research, you'll delve into the Netflix data to see if you can determine whether movie lengths are actually getting shorter and explain some of the contributing factors, if any.
-
-You have been supplied with the dataset `netflix_data.csv` , along with the following table detailing the column names and descriptions:
+## Introduction
+This project is an exploratory data analysis of Netflix movie data using Python and pandas. The goal was to investigate whether movies are getting shorter over time and identify factors contributing to this trend. The analysis revealed that, overall, movies are not getting shorter.
 
 ## The data
 ### **netflix_data.csv**
@@ -21,6 +18,16 @@ You have been supplied with the dataset `netflix_data.csv` , along with the foll
 | `duration` | Duration of the show in minutes |
 | `description` | Description of the show |
 | `genre` | Show genre |
-![image](https://github.com/slimanesedrati/Investigating-Netflix-Movies/assets/80587317/f70efce2-1c20-4504-92b1-a46ebcb4a544)
 
+## Installation and Usage
+To run this project, you'll need:
+
+- Python 3.8 or higher
+- pandas 1.2.4 or higher
+- matplotlib 3.4.2 or higher
+- Jupyter Notebook or any Python IDE
+
+Install the required packages using pip:
+```bash
+pip install pandas matplotlib
 
