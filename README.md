@@ -29,17 +29,21 @@ To run this project, you'll need:
 
 Install the required packages using pip:
 ```bash
-
 pip install pandas matplotlib
-
+```
 ## Clone the project repository from GitHub:
-  https://github.com/slimanesedrati/Investigating-Netflix-Movies.git
+```bash
+https://github.com/slimanesedrati/Investigating-Netflix-Movies.git
+```
 ## Navigate to the project folder:
-  cd Investigating-Netflix-Movies.git
+```bash
+cd Investigating-Netflix-Movies.git
+```
 ## Launch Jupyter Notebook:
-  jupyter notebook
-  Open and run the notebook named notebook.ipynb for the code and analysis.
-
+```bash
+jupyter notebook
+Open and run the notebook named notebook.ipynb for the code and analysis.
+```
 ## Acknowledgments
 This project was inspired by the DataCamp [Investigating Netflix Movies](https://app.datacamp.com/learn/projects/investigating_netflix/guided/Python) . Special thanks to DataCamp for providing valuable learning resources.
 
