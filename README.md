@@ -40,5 +40,5 @@ pip install pandas matplotlib
 `Open and run the notebook named notebook.ipynb for the code and analysis.`
 
 ## Acknowledgments
-This project was inspired by the DataCamp [https://app.datacamp.com/learn/projects/investigating_netflix/guided/Python](Investigating Netflix Movies). Special thanks to DataCamp for providing valuable learning resources.
+This project was inspired by the DataCamp []([Investigating Netflix Movies](https://app.datacamp.com/learn/projects/investigating_netflix/guided/Python)https://app.datacamp.com/learn/projects/investigating_netflix/guided/Python). Special thanks to DataCamp for providing valuable learning resources.
 
