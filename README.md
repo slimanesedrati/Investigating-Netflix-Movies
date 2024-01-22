@@ -31,3 +31,6 @@ Install the required packages using pip:
 ```bash
 pip install pandas matplotlib
 
+## Clone the project repository from GitHub:
+`https://github.com/slimanesedrati/Investigating-Netflix-Movies.git` 
+
