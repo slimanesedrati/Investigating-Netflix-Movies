@@ -42,24 +42,15 @@ You have been supplied with the dataset `netflix_data.csv` , along with the foll
 `colors = []`
 
 ### Iterate over rows of netflix_movies
-
-`for label, row in netflix_movies.iterrows() :`
-
-    `if row["genre"] == "Children" :`
-    
-        `colors.append("red")`
-        
-    `elif row["genre"] == "Documentaries" :`
-    
-        `colors.append("blue")`
-        
-    `elif row["genre"] == "Stand-Up":`
-    
-        `colors.append("green")`
-        
-   `else:`
-    
-       `colors.append("black")`
+for label, row in netflix_movies.iterrows() :
+    if row["genre"] == "Children" :
+        colors.append("red")
+    elif row["genre"] == "Documentaries" :
+        colors.append("blue")
+    elif row["genre"] == "Stand-Up":
+        colors.append("green")
+    else:
+       colors.append("black")
         
 ### Inspect the first 10 values in your list        
 `colors[:10]`
